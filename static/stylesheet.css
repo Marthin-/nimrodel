@@ -1,0 +1,74 @@
+body {
+	font-family: "Monospace", Times, serif;
+	font-color: black;
+	font-size: 20px;
+	background-image: url("img/404.jpg");
+	background-color: lightgray;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#navbar {
+	color: white;
+	margin-bottom: 30px;
+}
+
+#disclaimer {
+	background-color: rgba(240,240,240,0.5);
+        border-radius: 25px;
+	margin: auto;
+	width: 65%;
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 80px;
+}
+
+#disclaimer p {
+	padding-bottom: 16px;
+	text-align: justify;
+	margin: 16px;
+	font-size: 20px;
+}
+
+#disclaimer h1, h2, h3 {
+	margin: auto;
+}
+
+#disclaimer hr {
+	margin: auto;
+	margin-bottom: 30px;
+	width: 140px;
+}
+
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#navbar li {
+    color: white;
+    float: left;
+}
+
+#navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+#navbar li a:hover {
+    background-color: #111;
+    font-style: italic;
+}
+
+.active {
+    background-color: #4CAF50;
+}

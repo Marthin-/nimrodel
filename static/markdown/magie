@@ -1,0 +1,79 @@
+# La magie : Comment j'ai cramé mon équipe
+
+Dans la série "super tutos sur Pathfinder", on va parler de l'élément perturba-tueur, *le* truc qui fait que tout dérape : la MââhahaaagiiiIIIIIIiiiie. Rangez vos baguettes et sortez vos livres, aujourd'hui on apprend comment brûler les méchants.
+
+---
+
+## Magie profane vs. magie divine
+
+A Pathfinder on trouve deux types de classes capables d'embraser spontanément tout le monde dans la pièce : Les lanceurs de sorts divins et les lanceurs de sorts profanes.
+
+Les lanceurs profanes sont des magiciens, ensorceleurs, bardes qui manipulent l'énergie thaumique pour arriver à leurs fins. Certains (mages, bardes) le font grâce à un savoir acquis dans des livres, d'autres (les ensorceleurs) le font naturellement du fait d'un héritage magique présent dans leur sang. La magie profane est divisée en écoles (y'en a plein), par exemple les évocations ou les transmutations. Pour incanter la plupart des sorts nécessitent des composantes verbales et/ou gestuelles, du coup les lanceurs de sorts profanes prennent un malus en portant une armure (qui peut aller jusqu'à 40% pour une armure full plates)
+
+Les lanceurs divins sont des prêtres, druides, rôdeurs, paladins, qui canalisent l'énergie divine pour châtier l'hérétique, soigner les blessures et casser des bouches. En somme, quelque chose de très semblable aux lanceurs profanes, sauf que la source d'énergie n'est pas la même. Ce qui fait que la plupart des classes de lanceurs de sorts divins ne subissent pas de malus aux lancer de sorts lié à l'armure.
+
+Pour ce qui est des tendances générales, l'utilisation que font les classes de la magie varie grandement d'une classe à l'autre. Un Inquisiteur va plutôt avoir accès à des sorts de dégâts, un prêtre va pouvoir lancer des buffs, un druide manipuler les éléments... Tandis qu'un magicien va pouvoir choisir une école de prédilection et donc se spécialiser dans les sorts de métamorphoses, de transmutation... Même si tout le monde sait que ce qui compte c'est les BOULES DE FEU
+
+## Lancer des sorts
+
+Pour lancer un sort c'est simple : On regarde si le sort est dans la liste des sorts connus/sélectionnés pour la journée (en fonction de la classe). Il y est ? Bon. Ben il est lancé, voilà. (Je vous l'avais dit. Simple.)
+
+Ensuite, c'est aux cibles du sort de résister (ou non). Pour ça chaque cible fait un jet de (reflexes/vigueur/volonté) en fonction du sort. Le DD (Dé de Difficulté) pour résister vaut
+
+> DD = 10 + niveau du sort + mod. carac + bonus divers
+
+Avec mod. carac qui dépend de la classe du personnage (par exemple, l'intelligence pour un magicien, le charisme pour un ensorceleur, la sagesse pour un prêtre...).
+
+Par exemple, un magicien à 18 d'intelligence lance une Boule de Feu (sort de niveau 3) dans la pièce où le groupe fait face à cinq gobelours enervés. Tout le monde dans la zone d'effet (9m de diamètre) fait un jet de reflexes pour éviter de se faire roussir le croupion. Ce jet possède un DD de 10 + 3 (niveau du sort) + 4 (mod. Int) = 17. Chaque personne dans la zone d'effet doit donc réussir à faire 17 ou plus sur 1d20 + bonus de reflexes.
+
+Résister à un sort n'est bien sûr pas une obligation : Si Frère Baudouin de Sarenrae tente de soigner Trevor de la Grenouillère, Trutru peut bien entendu choisir de subir le sort pour récupérer les PV qu'il a perdu dans cette chute malencontreuse dans l'escalier.
+
+## Réserve de sorts
+
+On retrouve deux tendances générales au niveau de la réserve de sorts quotidienne des lanceurs de sorts : Soit ils choisissent chaque jour les sorts qu'ils veulent préparer, et les stockent dans des emplacements (par exemple les magiciens ou les prêtres), soit ils connaissent un nombre plus réduit de sorts mais peuvent les lancer de manière spontanée sans les avoir sélectionnés à l'avance.
+
+### Préparation quotidienne
+
+Les classes qui doivent préparer chaque jour leurs sorts doivent en général passer une heure tous les matins à méditer/réviser leurs sorts pour les sélectionner. En termes de règles, les lanceurs de sorts ont un nombre d'emplacements pour les sorts de chaque niveau. Par exemple pour un prêtre:
+
+**Niveau 0 [3 emplacements]:**
+
+* bénediction
+* stabilisation
+* son illusoire
+
+**Niveau 1 [2 emplacements]:**
+
+* Soin des blessures légères
+* Soin des blessures légères
+
+Lors de sa préparation matinale, Frère Baudouin estime qu'il aura besoin des sorts de niveau 0 Bénédiction, Stabilisation et Son illusoire, il remplit donc ses trois emplacements avec ces sorts. Pour ce qui est des emplacements de niveau 1, il sait qu'un combat se prépare et décide donc de remplir ses deux emplacements avec le sort Soin des Blessures Légères, pour pouvoir l'utiliser deux fois dans la journée.
+
+Dans les faits, certaines variables entrent en compte (les prêtres peuvent automatiquement remplacer un sort préparé par un sort de soin de même niveau). Mais l'essentiel est de bien se souvenir que le nombre d'emplacements définit le nombre de sort qu'un lanceur peut utiliser chaque jour. Mettre le même sort dans plusieurs emplacements permet donc de le lancer plusieurs fois.
+
+### Lancement spontané
+
+D'autres classes de lanceurs de sorts n'ont pas besoin de préparer une sélection de sorts tous les jours, mais peuvent lancer n'importe quel sort de leur répertoire en le choisissant à la volée. En contrepartie, ces classes (par exemple les ensorceleurs ou les prophètes) possèdent un répertoire plus restreint (un nombre plus réduit de sorts connus).
+
+Un petit exemple de liste de sorts avec un ensorceleur:
+
+**Niveau 0 [4 connus]:
+
+* Hébêtement
+* Détection de la magie
+* Lumière dansante
+* Son imaginaire
+
+**Niveau 1 [2 connu]:
+
+* Projectile magique
+* Disque Flottant de Tenser
+
+Notre ensorceleur peut lancer chaque jour autant de sorts de niveau 0 qu'il le souhaite, et trois sorts de niveau 1, qu'il choisit à la volée dans sa liste de sorts.
+
+---
+
+Voilà pour la base du fonctionnement de la magie dans Pathfinder, un dernier conseil que je pourrais vous donner : ***Faites attention à la portée de vos sorts !*** On oublie trop vite qu'une boule de feu n'a pas d'yeux ni suffisament d'intelligence pour roussir le poil des vilains tout en laissant les copains bien au frais.
+
+La suite tout de suite avec un article sur <a href="combat_pathfinder.html">la bagarre !</a>
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <link rel="icon" href="https://nimrodel.fr/img/favicon.ico" type="image/x-icon">  
+  <title>Nimrodel.fr</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='stylesheet.css') }}" /> 
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div id="navbar">
+<ul>
+<li><a href="{{ url_for('main') }}">Accueil</a></li>
+<li><a href="https://www.nimrodel.fr/articles">Articles</a></li>
+<li><a href="https://www.nimrodel.fr/projets">Projets</a></li>
+<li><a href="http://nimrodel.fr:8081">Lufi</a></li>
+</ul>
+</div>
+<div id='disclaimer'>
+{{ content }}
+</div>
+</body>
+</html>
